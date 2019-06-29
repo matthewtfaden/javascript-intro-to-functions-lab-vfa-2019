@@ -19,7 +19,7 @@ mixedCase.toLowerCase() === mixedCase // false
 mixedCase.toUpperCase() === mixedCase // false
 
 function sayHiToGrandma(string) {
-if('hello') { return 'I can\'t hear you!'}
-else if('HELLO') { return 'YES INDEED!'}
-  else if ('I love you, Grandma.') {return 'I love you, too.'}
+if(lowercase) { return 'I can\'t hear you!'}
+else if(uppercase) { return 'YES INDEED!'}
+  else if (mixedCase) {return 'I love you, too.'}
 }
